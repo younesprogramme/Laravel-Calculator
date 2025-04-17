@@ -7,8 +7,8 @@ git clone  https://github.com/younesprogramme/calculator.git
 ```
 composer install
 ```
-
-
+## Lancer l'application
+``` 
 php artisan serve
 ```
 ## Lien de la page Calculatrice
